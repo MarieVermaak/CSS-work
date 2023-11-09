@@ -1,0 +1,11 @@
+.button {
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  border-color: black;
+}
+
+.button.second {
+background-color: yellow;
+color: black;
+}
